@@ -1,5 +1,5 @@
 # Welcome to this Data Science Portfolio
-![avatar](/images/avatar.png)
+![avatar](/images/avatar1.png)
 ## About & Skills
 I'm a Senior Data Analyst embarking on a data science journey and this portfolio will evidence my skillset and passions.
 In this portfolio I will be conducting Supervised ML on soccer datasets. 
